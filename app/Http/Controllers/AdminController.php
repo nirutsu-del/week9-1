@@ -21,8 +21,8 @@ class AdminController extends Controller
 
     function about2()
     {
-        $name = 'Sasis srikokpho';
-        $date = '20 May 2025';
+        $name = 'Da Khanitha';
+        $date = '15 May 2005';
         return view('about2', compact('name', 'date'));
     }
 

@@ -6,8 +6,8 @@
 @section('content')
     <h2>เกี่ยวกับเรา</h2>
     <hr>
-    <p>ผู้พัฒนาระบบ : Sasis srikokpho </p>
-    <p>วันที่ก่อตั้ง : 5 May 2026 </p>
+    <p>ผู้พัฒนาระบบ : Da Khanitha </p>
+    <p>วันที่ก่อตั้ง : 15 May 2005 </p>
     <hr>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem eveniet, quis odit architecto illum
         dicta
